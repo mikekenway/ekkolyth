@@ -2,7 +2,7 @@
 
 import { Button } from '@/components/ui/button';
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar';
-import { FaTwitch, FaTwitter, FaDiscord } from 'react-icons/fa';
+import { FaTwitch, FaTwitter, FaDiscord, FaCoffee } from 'react-icons/fa';
 import { SocialIcon } from '@/components/social-icon';
 
 export default function LinkPage() {
@@ -69,6 +69,21 @@ export default function LinkPage() {
               >
                 <FaDiscord />
                 Join my Discord
+              </a>
+            </Button>
+            <Button
+              variant='ghost'
+              size='lg'
+              className='w-full justify-center'
+              asChild
+            >
+              <a
+                href='https://ko-fi.com/ekkolyth'
+                target='_blank'
+                rel='noopener noreferrer'
+              >
+                <FaCoffee />
+                Buy me a Ko-fi
               </a>
             </Button>
           </div>
