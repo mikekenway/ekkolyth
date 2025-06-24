@@ -55,14 +55,5 @@ Custom utilities, Notion automations, home server setup scripts, and full-servic
 
 ---
 
-## 🔎 Find Me Elsewhere
-
-- 🌐 [mikekenway.com](https://mikekenway.com)
-- 📸 [Instagram](https://instagram.com/mikekenway)
-- 🧠 [Notion Templates](https://notion.so)
-- 🧵 [@mikekenway](https://twitter.com/mikekenway)
-
----
-
 Thanks for stopping by — if you're building cool stuff or want to collaborate, [drop me a message](https://mikekenway.com/contact).
 

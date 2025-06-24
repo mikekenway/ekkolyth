@@ -19,6 +19,9 @@ const siteImage = `${siteURL}/og-image.png`;
 export const metadata: Metadata = {
   title: siteTitle,
   description: siteDescription,
+  icons: {
+    icon: '/favicon.png',
+  },
   openGraph: {
     title: siteTitle,
     description: siteDescription,
