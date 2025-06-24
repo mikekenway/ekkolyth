@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hey, I'm Mike Kenway
 
-## Getting Started
+Developer / Designer 
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💻 What I Do
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I'm a full-stack creative working at the intersection of **design, code, and storytelling**. My background spans a decade of hands-on experience in:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🎨 **UX/UI Design** — thoughtful, user-centered interfaces that aren’t just pretty, but purposeful.
+- 🧑‍💻 **Front-End Development** — currently working with **Next.js**, **React**, **TypeScript**, and slowly mastering **Tailwind CSS** (yes, I’ve surrendered).
+- 🧵 **Back-End Dev** — building with **Node.js**, **PostgreSQL**, **Supabase**, **Prisma**, and **Docker** for self-hosted environments.
+- 🛠️ **Infra & IT** — running a home lab with **CasaOS**, **NGINX**, **Linux servers**, and way too many Docker containers.
+- 🧠 **Creative Direction** — from branding and product design to Shopify store strategy and campaign rollouts.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ What I'm Building
 
-To learn more about Next.js, take a look at the following resources:
+### ⚡️ [PageFlow.co](https://pageflow.co)
+A drag-and-drop **link page builder** for creators and small teams. Think Linktree, but with real creative control (custom CSS, staging previews, and team workflows included).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🎮 [ApexFoundry.gg](https://apexfoundry.gg)
+A personal playground project to sharpen my front-end skills. Random legend/squad generator, filtering, tier lists, and more — all built in **Next.js** using a live **Supabase** backend.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🧰 Personal Dev Toolbox
+Custom utilities, Notion automations, home server setup scripts, and full-service dockerized apps for self-hosted media, book libraries, and game servers (Palworld, Minecraft, Astroneer).
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔌 Integrations & Stack Experience
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Shopify Partner** — deep experience running my own store & building for clients
+- **Klaviyo** — custom flows, dynamic content, A/B testing setups
+- **Resend / React Email** — modern transactional emails with branding
+- **Vercel + Railway** — preferred deployment stack for production apps
+
+---
+
+## 🧪 Currently Learning
+
+- **Next/React/Typescript**
+- **Authorization**
+- **Monorepos with Turborepo**
+- 
+
+---
+
+## 🎯 Side Projects & Studios
+
+- 👕 **Ghostboy Co.** – My own streetwear brand (dark, comfy, weird, and a little cute)
+- 🎸 **Ghostlife** – My band, where I mix pop and metal and scream into microphones
+- 🎙️ **Refuge Studio** – An audio production studio I run in my free time
+
+---
+
+## 🔎 Find Me Elsewhere
+
+- 🌐 [mikekenway.com](https://mikekenway.com)
+- 📸 [Instagram](https://instagram.com/mikekenway)
+- 🧠 [Notion Templates](https://notion.so)
+- 🧵 [@mikekenway](https://twitter.com/mikekenway)
+
+---
+
+Thanks for stopping by — if you're building cool stuff or want to collaborate, [drop me a message](https://mikekenway.com/contact).
+
