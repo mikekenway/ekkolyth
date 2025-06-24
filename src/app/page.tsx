@@ -2,16 +2,12 @@
 
 import { Button } from '@/components/ui/button';
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar';
-import {
-  FaTwitch,
-  FaTwitter,
-  FaDiscord,
-} from 'react-icons/fa';
+import { FaTwitch, FaTwitter, FaDiscord } from 'react-icons/fa';
 import { SocialIcon } from '@/components/social-icon';
 
 export default function LinkPage() {
   return (
-    <div className='min-h-screen flex items-center justify-center px-4 py-10'>
+    <div className='min-h-screen w-full flex items-center justify-center px-4 py-10 m-0'>
       <div className='w-full max-w-md rounded-3xl overflow-hidden shadow-xl'>
         {/* Top card area */}
         <div className='bg-zinc-950/50 px-6 pt-10 pb-6 text-center'>
@@ -80,11 +76,11 @@ export default function LinkPage() {
 
         {/* Social icons bar */}
         <div className='bg-white px-6 py-6 flex justify-center gap-5 text-zinc-700 text-2xl'>
-            <SocialIcon
-              icon='twitch'
-              href='https://twitch.tv/ekkolyth'
-              ariaLabel='Twitch'
-            />
+          <SocialIcon
+            icon='twitch'
+            href='https://twitch.tv/ekkolyth'
+            ariaLabel='Twitch'
+          />
           <SocialIcon
             icon='youtube'
             href='https://www.youtube.com/@ekkolyth'
@@ -100,12 +96,12 @@ export default function LinkPage() {
             href='https://twitter.com/ekkolyth'
             ariaLabel='Twitter'
           />
-            <SocialIcon
+          <SocialIcon
             icon='instagram'
             href='https://www.instagram.com/ekkolyth'
             ariaLabel='Instagram'
           />
-            <SocialIcon
+          <SocialIcon
             icon='email'
             href='mailto:hello@ekkolyth.com'
             ariaLabel='Email'

@@ -19,6 +19,8 @@ const siteImage = `${siteURL}/og-image.png`;
 export const metadata: Metadata = {
   title: siteTitle,
   description: siteDescription,
+  viewport:
+    'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no',
   icons: {
     icon: [
       { url: '/favicon.ico', type: 'image/x-icon' },
@@ -52,8 +54,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang='en'>
-      <body className={`${inter.variable} font-sans antialiased`}>
+    <html
+      lang='en'
+      className='h-full w-full overflow-x-hidden'
+    >
+      <body
+        className={`${inter.variable} font-sans antialiased h-full w-full overflow-x-hidden m-0 p-0`}
+      >
         {children}
       </body>
     </html>
