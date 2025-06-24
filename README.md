@@ -13,7 +13,6 @@ I'm a full-stack creative working at the intersection of **design, code, and sto
 **Supabase**, **Prisma**, and **Docker** for self-hosted environments.
 - 🛠️ **Infra & IT** — running a home lab with **CasaOS**, **NGINX**, and way too many Docker containers.
 
-
 ---
 
 ## 🛠️ What I'm Building
@@ -22,10 +21,10 @@ I'm a full-stack creative working at the intersection of **design, code, and sto
 A drag-and-drop **link page builder** for creators and small teams. Think Linktree, but with real creative control (custom CSS, staging previews, and team workflows included).
 
 ### [ApexFoundry.gg](https://apexfoundry.gg)
-A personal playground project to sharpen my front-end skills. Random legend/squad generator, filtering, tier lists, and more — all built in **Next.js** using a live **Supabase** backend.
+A personal playground project to sharpen my front-end skills. Random legend/squad generator, filtering, tier lists, and more — all built in **Next.js**.
 
 ### Personal Dev Toolbox
-Custom utilities, Notion automations, home server setup scripts, and full-service dockerized apps for self-hosted media, book libraries, and game servers (Palworld, Minecraft, Astroneer).
+Custom utilities, Notion automations, home server setup scripts, and full-service dockerized apps for self-hosted media, book libraries, and game servers (Palworld, Minecraft, Astroneer,etc).
 
 ---
 
