@@ -19,7 +19,7 @@ I'm a full-stack creative working at the intersection of **design, code, and sto
 ### [ApexFoundry.gg](https://apexfoundry.gg)
 Next.js, Convex - A Playground for Apex Legends Players.
 
-### [ek(klip)se](https://github.com/mikekenway/ekklipse))
+### [ek(klip)se](https://github.com/mikekenway/ekklipse)
 Next.js, Convex - A simple pastebin for dropping between friends/devices.
 
 ### [create-ekko-app](https://github.com/mikekenway/create-ekko-app)
