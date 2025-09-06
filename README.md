@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Mike Kenway
+# 👋 Hey, I'm Ekko
 
-Developer / Designer 
+UX Developer / Designer 
 
 ---
 
@@ -9,30 +9,27 @@ Developer / Designer
 I'm a full-stack creative working at the intersection of **design, code, and storytelling**. My background spans a decade of hands-on experience in:
 
 - 🎨 **UX/UI Design** — thoughtful, user-centered interfaces that aren’t just pretty, but purposeful.
-- 🧑‍💻 **Front-End Development** — currently working with **Next.js**, **React**, **TypeScript**, and slowly mastering **Tailwind CSS**.
-**Supabase**, **Prisma**, and **Docker** for self-hosted environments.
-- 🛠️ **Infra & IT** — running a home lab with **CasaOS**, **NGINX**, and way too many Docker containers.
+- 🧑‍💻 **Front-End Development** — currently working with **Next.js**, **React**, **TypeScript**, **Tailwind**, **shadcn*, Tanstack Router/Query, **Convex*, Drizzle, && whatever else has my fancy that day (as i'm typing this, it's electron. I just made a TSRouter/Electron starter - [check it out!](https://github.com/mikekenway/electron-tanstack-starter)).
+- 🛠️ **Infra & IT** — the boring stuff. windows/linux admin, networking, and running my own little homelab. 
 
 ---
 
 ## 🛠️ What I'm Building
 
-### [PageFlow.co](https://pageflow.co)
-A drag-and-drop **link page builder** for creators and small teams. Think Linktree, but with real creative control (custom CSS, staging previews, and team workflows included).
-
 ### [ApexFoundry.gg](https://apexfoundry.gg)
-A personal playground project to sharpen my front-end skills. Random legend/squad generator, filtering, tier lists, and more — all built in **Next.js**.
+Next.js, Convex - A Playground for Apex Legends Players.
 
-### Personal Dev Toolbox
-Custom utilities, Notion automations, home server setup scripts, and full-service dockerized apps for self-hosted media, book libraries, and game servers (Palworld, Minecraft, Astroneer,etc).
+### [ek(klip)se]([https://apexfoundry.g](https://github.com/mikekenway/ekklipse)g)
+Next.js, Convex - A simple pastebin for dropping between friends/devices.
 
----
+### [create-ekko-app](https://github.com/mikekenway/create-ekko-app)
+A silly side project i maintain to make it easy to spin up apps with my favorite web stack. 
 
-## 🧪 Currently Learning
+### [ekkodex](https://github.com/mikekenway/ekkodex)
+My newest side project. I'm learning about API's, and trying to build a beautiful, simple pokedex in the process. Come along for the ride!
 
-- **Next/React/Typescript**
-- **Authorization**
-- **Monorepos with Turborepo**
+### EkkoOS
+Next.js, Clerk, Convex, Docker - My personal productivity system app - alongside a docker network with 40+ containers. 
 
 ---
 
